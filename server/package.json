@@ -1,0 +1,36 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-fall2021/assignment-7-SandeepWaghNU.git"
+  },
+  "author": "Sandeep Wagh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-fall2021/assignment-7-SandeepWaghNU/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-fall2021/assignment-7-SandeepWaghNU#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "debug": "^4.3.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.3",
+    "nodemailer": "^6.7.2",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "razorpay": "^2.8.0"
+  }
+}
