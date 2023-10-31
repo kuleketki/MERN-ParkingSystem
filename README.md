@@ -46,7 +46,7 @@ Follow these steps to set up and run the project:
 Run the following command in your shell:
 
 ```sh
-https://github.com/kuleketki/MERNProject.git
+https://github.com/kuleketki/MERN-ParkingSystem.git
 ```
 
 2. **Install Dependencies:**
